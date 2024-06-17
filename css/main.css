@@ -139,6 +139,35 @@ i{
     font-size: 15px ;
     /* transform: rotate(90deg); */
 }
+.birthday{
+    margin-top: 20px;
+    padding: 130px 150px;
+    width: 500px;
+    height: 120px;
+    color: #9C9C9C;
+    font-size: 30px ;
+    font-weight: 700;
+}
+.tag{
+    margin-top: -340px;
+    padding: 130px 150px;
+    width: 500px;
+    height: 120px;
+    color: #9C9C9C;
+    font-size: 15px ;
+    font-weight: 300;
+}
+.title1{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: -700px;
+    padding-right: 100px;
+    padding:0 auto;
+    width: 45%;
+    color: rgba(255, 255, 255, 0.888);
+    font-size: 16px;
+    text-align: right;
+}
 /* ===hover dropdown===    */
 ul{
     list-style-type: none;
