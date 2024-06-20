@@ -98,7 +98,7 @@ i{
     color: #9C9C9C;
     font-size: 45px;
     transform: rotate(90deg);
-    font-weight: 700;
+    font-weight: initial;
 }
 .leftcv{
     margin-top: -360px ;
@@ -160,12 +160,124 @@ i{
 .title1{
     margin-left: auto;
     margin-bottom: 0;
-    margin-top: -700px;
-    padding-right: 100px;
+    margin-top: -720px;
+    padding-right:60px;
     padding:0 auto;
-    width: 45%;
-    color: rgba(255, 255, 255, 0.888);
-    font-size: 16px;
+    width: 55%;
+    color: #9C9C9C;
+    font-size: 15px;
+    text-align: right;
+}
+.h2cv{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-right: 60px;
+    padding:0 auto;
+    width: 50%;
+    color: #9C9C9C;
+    font-size: 40px;
+    text-align: right;
+}
+.h2edu{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-right: 60px;
+    padding:0 auto;
+    width: 50%;
+    color: #9C9C9C;
+    font-size: 40px;
+    text-align: right;
+}
+.font-weight700{
+    font-weight: 700;
+}
+.title2{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 0px;
+    padding-right:600px;
+    padding:0 auto;
+    width: 30%;
+    color: #9C9C9C;
+    font-size: 13px;
+    text-align: right;
+}
+.title3{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-right:600px;
+    padding:0 auto;
+    width: 25%;
+    color: #9C9C9C;
+    font-size: 13px;
+    text-align: right;
+}
+.title4{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 50px;
+    padding-right:600px;
+    padding:0 auto;
+    width: 25%;
+    color: #9C9C9C;
+    font-size: 13px;
+    text-align: right;
+}
+.line{
+    /* Line 5 */
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-right:10px;
+    text-align: right;
+    padding:0 auto;
+    position: absolute;
+    width: 209px;
+    height: 0px;
+    top: 305px;
+    right: 450px;
+    border: 1px solid #C0C0C0;
+    transform: rotate(90deg);
+}
+.line5{
+    /* Line 5 */
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-right:10px;
+    text-align: right;
+    padding:0 auto;
+    position: absolute;
+    width: 60px;
+    height: 0px;
+    top: 525px;
+    right: 525px;
+    border: 1px solid #C0C0C0;
+    transform: rotate(90deg);
+}
+.title5{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: -370px;
+    padding-right:60px;
+    padding:0 auto;
+    width: 55%;
+    color: #9C9C9C;
+    font-size: 13px;
+    text-align: right;
+}
+.title6{
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-right:60px;
+    padding:0 auto;
+    width: 55%;
+    color: #9C9C9C;
+    font-size: 13px;
     text-align: right;
 }
 /* ===hover dropdown===    */
